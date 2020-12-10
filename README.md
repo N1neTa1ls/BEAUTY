@@ -1,1 +1,1 @@
-BEAUTY
+demo-site
